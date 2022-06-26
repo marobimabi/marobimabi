@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahamat Ali</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xkoedp15drq87ct3seru8jt53gpz34sp7kzubwfs&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marobimabi&label=Profile%20views&color=0e75b6&style=flat" alt="marobimabi" /> </p>
 
