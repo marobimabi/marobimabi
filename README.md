@@ -23,10 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mhtaliyoussouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhtaliyoussouf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahamat-ali-youssouf-8899a0201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahamat-ali-youssouf-8899a0201/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/mahamat-ali-youssouf-8899a0201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mahamat-ali-youssouf-8899a0201/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17375302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17375302" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/marobi.mabi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/marobi.mabi/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/marobimabi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marobimabi" height="30" width="40" /></a>
+<a href="https://fb.com/marobi.mabi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/marobi.mabi/" height="30" width="40" /></a>
+<a href="https://instagram.com/marobimabi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marobimabi" height="30" width="40" /></a>
 <a href="https://discord.gg/5464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5464" height="30" width="40" /></a>
 </p>
 
